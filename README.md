@@ -164,8 +164,6 @@ This project demonstrates:
 * KPI-based dashboard creation
 * Importance of analytics in business decisions
 
----
-
 ##  Author
 
 Shivendra Sandip Ghadage
