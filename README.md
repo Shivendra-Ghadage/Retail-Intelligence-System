@@ -132,7 +132,7 @@ KPIs Created Using DAX:
 * Profit Margin
 * Churn Rate
 * Return Rate
-* Monthly Growth %
+
 
 
 ## 📊 Key Insights
